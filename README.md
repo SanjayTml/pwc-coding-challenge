@@ -1,4 +1,4 @@
-# Getting Started with Chuck Norris Joke App
+# Getting Started with Chuck Norris Jokes App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
